@@ -1,5 +1,5 @@
 ## This version is an example that turns the input to noise completely.
-## An explanation and a fix will be added soon.
+## A full explanation is found at noise-reduce.md.
 
 import numpy as np
 from pydub import AudioSegment
